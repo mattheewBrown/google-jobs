@@ -1,0 +1,6 @@
+{
+    "PROXY": "http://your-proxy.com",
+    "COOKIES": {
+        "name": "value"
+    }
+}
